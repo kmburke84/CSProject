@@ -1,0 +1,6 @@
+c:\users\burkek\documents\visual studio 2013\Projects\CSProject\CSProject\bin\Debug\CSProject.exe.config
+c:\users\burkek\documents\visual studio 2013\Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+c:\users\burkek\documents\visual studio 2013\Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+c:\users\burkek\documents\visual studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.exe
+c:\users\burkek\documents\visual studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.pdb
+C:\Users\burkek\Documents\Visual Studio 2013\Projects\CSProject\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
